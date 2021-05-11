@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/4392888/117738225-601ff680-b1b0-11eb-9
 
 ---
 
-#### I also updated our drivers license upload experience to our newer, simpler design scheme.
+#### I also updated our drivers license upload experience to our newer, simpler design scheme. [See the code](drivers-license)
 
 https://user-images.githubusercontent.com/4392888/117738272-82197900-b1b0-11eb-89c3-ebf18162032f.mov
 
